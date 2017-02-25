@@ -1,0 +1,2 @@
+# staticRouter
+基于Mininet对SDN/OpenFlow网络进行仿真，搭建了由一个三层路由器staticRouter、一个二层自学习交换机以及若干台主机构成的网络拓扑。使用POX做控制器，编程实现了网络中各个主机之间的连通性。
